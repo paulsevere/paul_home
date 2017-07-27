@@ -1,0 +1,7 @@
+[package]
+authors = ["paul"]
+name = "paul_home"
+version = "0.1.0"
+[dependencies]
+rocket = "0.3.0"
+rocket_codegen = "0.3.0"
