@@ -1,1 +1,1 @@
-web: ./target/release/paul_home
+web: ROCKET_PORT=$PORT ROCKET_ENV=prod ./target/release/<MyApp>
